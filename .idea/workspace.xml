@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65aeece8-39d9-4467-806b-1b1accc67e97" name="Changes" comment="Check my homework Lesson28_Servlet_dayOfWeek">
+    <list default="true" id="65aeece8-39d9-4467-806b-1b1accc67e97" name="Changes" comment="Check my homework Lesson28_Servlet_(dayOfWeek, getStudentById fnd getAllStudents)">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ServletGetAllStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ServletGetAllStudents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,25 +55,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Ale/IdeaProjects/Lesson28_Servlet_dayOfWeek",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ale/IdeaProjects/BankingTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TomCat" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
@@ -102,7 +107,15 @@
       <option name="presentableId" value="Default" />
       <updated>1680615213252</updated>
       <workItem from="1680615214822" duration="2246000" />
-      <workItem from="1680699994391" duration="2158000" />
+      <workItem from="1680699994391" duration="3155000" />
+      <workItem from="1680771907631" duration="7585000" />
+      <workItem from="1680812455513" duration="621000" />
+      <workItem from="1680851074194" duration="1867000" />
+      <workItem from="1680944700502" duration="664000" />
+      <workItem from="1681063688886" duration="1490000" />
+      <workItem from="1681077973294" duration="1600000" />
+      <workItem from="1681110034042" duration="799000" />
+      <workItem from="1681215764719" duration="3932000" />
     </task>
     <task id="LOCAL-00001" summary="Check my homework Lesson28_Servlet_dayOfWeek">
       <created>1680616507021</created>
@@ -111,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680616507021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Check my homework Lesson28_Servlet_(dayOfWeek, getStudentById fnd getAllStudents)">
+      <created>1680703705734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680703705734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Check my homework Lesson28_Servlet_dayOfWeek" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check my homework Lesson28_Servlet_dayOfWeek" />
+    <MESSAGE value="Check my homework Lesson28_Servlet_(dayOfWeek, getStudentById fnd getAllStudents)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check my homework Lesson28_Servlet_(dayOfWeek, getStudentById fnd getAllStudents)" />
   </component>
 </project>

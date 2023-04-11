@@ -14,7 +14,7 @@ public class ServletGetAllStudents extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) {
-//        String id = String.valueOf(Integer.parseInt(req.getParameter("id")));
+//        int id = Integer.parseInt(req.getParameter("id"));
         try {
             Class.forName("com.mysql.cj.jdbc.Driver").getDeclaredConstructor().newInstance();
         } catch (Exception ex) {
